@@ -1,0 +1,14 @@
+[
+    {
+        "from": "ETH",
+        "to": "DAI",
+        "target": "400",
+        "amount": "1"
+    },
+    {
+        "from": "ETH",
+        "to": "DAI",
+        "target": "500",
+        "amount": "2"
+    }
+]
